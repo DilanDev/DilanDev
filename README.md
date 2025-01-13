@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dylan Ospino</h1>
+<h1 align="center">Hi 👋, I'm Dilan Ospino</h1>
 <h3 align="center">Student at Fundacion universitaria tecnologico comfenlaco 👨‍🎓.</h3>
 
 
